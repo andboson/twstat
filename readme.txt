@@ -7,7 +7,7 @@ It uses Smarty Template Engine (http://www.smarty.net/)
 You can change design on yor own.
 Multilanguage (en, ru  at this moment), add your language section to modules/lang.ini !
 You can use it full or part in yor product.
-You can donate this project: WebMoney: Z244456077556 or U389240298349. 
+
 
 TODO:
 
